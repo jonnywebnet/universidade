@@ -143,6 +143,14 @@ soma = sum(range(1, n + 1))
 print(f"A soma de 1 até {n} é {soma}")
 print()
 
+'''
+resolução da aula:
+n = 5
+fat = 1
+for i in range(1,n+1):
+    fat *= i
+print(fat) 
+'''
 print(Verde + "Exercício 18:" + Reset)
 soma = 0
 while True:
